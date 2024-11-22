@@ -1,0 +1,24 @@
+
+.post{
+  width: 75%;
+  margin-inline: auto ;
+ padding-block: 30px;
+  .post-content{
+    border: 1px solid darkgray;
+    margin-bottom: 20px;
+    padding: 20px 40px;
+    border-radius: var(--radius-3);
+    background-color: #fff;
+    box-shadow: var(--shadow-3);
+  }
+}
+
+.reaction-btn{
+  border: none;
+  background-color: #fff;
+}
+
+.form-container{
+  width: 50%;
+  margin-inline: auto;
+}
